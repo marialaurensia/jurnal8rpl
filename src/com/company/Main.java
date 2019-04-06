@@ -13,6 +13,7 @@ public class Main {
             System.out.print(" "+c);
             a = b;
             b = c;
+            juki
         }
     }
 }
